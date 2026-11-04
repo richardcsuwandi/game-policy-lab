@@ -1,0 +1,9 @@
+[project]
+name = "game-policy-lab"
+version = "0.1.0"
+description = "Evaluate model-written game policies in Snake and Breakout"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
